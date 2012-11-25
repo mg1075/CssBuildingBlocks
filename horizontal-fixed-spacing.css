@@ -1,0 +1,50 @@
+﻿.inblock5,
+.inblock10,
+.inblock15,
+.inblock20,
+.inblock25,
+.inblock30,
+.inblock35,
+.inblock40,
+.inblock45,
+.inblock50,
+.inblock55,
+.inblock60,
+.inblock65,
+.inblock70,
+.inblock75,
+.inblock80,
+.inblock85,
+.inblock90,
+.inblock95,
+.inblock100,
+.inblock200 {
+    display: inline-block;
+    margin: 0; 
+    padding: 0; 
+    border: 0; 
+    font-size: 0; 
+    height: 1px; 
+}
+
+.inblock5 { width: 5px; }
+.inblock10 { width: 10px; }
+.inblock15 { width: 15px; }
+.inblock20 { width: 20px; }
+.inblock25 { width: 25px; }
+.inblock30 { width: 30px; }
+.inblock35 { width: 35px; }
+.inblock40 { width: 40px; }
+.inblock45 { width: 45px; }
+.inblock50 { width: 50px; }
+.inblock55 { width: 55px; }
+.inblock60 { width: 60px; }
+.inblock65 { width: 65px; }
+.inblock70 { width: 70px; }
+.inblock75 { width: 75px; }
+.inblock80 { width: 80px; }
+.inblock85 { width: 85px; }
+.inblock90 { width: 90px; }
+.inblock95 { width: 95px; }
+.inblock100 { width: 100px; }
+.inblock200 { width: 200px; }
