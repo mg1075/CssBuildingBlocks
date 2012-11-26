@@ -1,8 +1,17 @@
 # CSS Building Blocks #
 
-**CSS Building Blocks** is a set of css stylesheets whose primary purpose is to provide vertical and horizontal spacing "helpers". They have no dependencies on existing frameworks such as the 960 grid system or twitter bootstrap, but they can become especially helpful when used in conjunction with one of these frameworks.
+**CSS Building Blocks** is a set of css stylesheets whose primary purpose is to provide vertical and horizontal "spacing helpers". They have no dependencies on existing frameworks such as the 960 grid system or twitter bootstrap, but they can become especially helpful when used in conjunction with one of these frameworks.
 
-More documentation to follow...
+One simple scenario for using a "spacer" is to provide a specific and custom amount of height between two elements.
+
+```html
+<p>Here's my first paragraph.</p>
+<div class="spacer50"></div>
+<p>A 50px high spacer exists between my first and second paragraphs</p>.
+```
+
+
+Another example of their usage is to provide an element inside a grid framework such as twitter bootstrap that prevents a span from collapsing. (Note the use of the **spacer** classes).
 
 
 ```html
