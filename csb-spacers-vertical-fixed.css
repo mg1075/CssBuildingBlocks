@@ -1,36 +1,18 @@
-﻿.spacer1,
-.spacer2,
-.spacer3,
-.spacer4,
-.spacer5,
-.spacer6,
-.spacer7,
-.spacer8,
-.spacer9,
-.spacer10,
-.spacer11,
-.spacer12,
-.spacer13,
-.spacer14,
-.spacer15,
-.spacer20,
-.spacer25, 
-.spacer30,
-.spacer35,
-.spacer40,
-.spacer45,
-.spacer50,
-.spacer55,
-.spacer60,
-.spacer65, 
-.spacer70, 
-.spacer75, 
-.spacer80,
-.spacer85, 
-.spacer90,
-.spacer95,
+﻿.spacer1,.spacer2,.spacer3,.spacer4,.spacer5,.spacer6,.spacer7,.spacer8,.spacer9,.spacer10,
+.spacer11,.spacer12,.spacer13,.spacer14.spacer15,
+.spacer20,.spacer25, 
+.spacer30,.spacer35,
+.spacer40,.spacer45,
+.spacer50,.spacer55,
+.spacer60,.spacer65, 
+.spacer70,.spacer75,
+.spacer80,.spacer85, 
+.spacer90,.spacer95,
 .spacer100,
-.spacer200 {
+.spacer200,
+.spacer300,
+.spacer400,
+.spacer500 {
     display: block;
     margin: 0; 
     padding: 0; 
@@ -72,3 +54,6 @@
 .spacer95 { height: 95px; }
 .spacer100 { height: 100px; }
 .spacer200 { height: 200px; }
+.spacer300 { height: 300px; }
+.spacer400 { height: 400px; }
+.spacer500 { height: 500px; }
