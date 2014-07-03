@@ -1,7 +1,5 @@
 # CSS Building Blocks #
 
-For a more complete view, visit [http://www.info-arete.com/post/2013/02/26/Using-CSSBuildingBlocks-in-your-web-pages.aspx](http://www.info-arete.com/post/2013/02/26/Using-CSSBuildingBlocks-in-your-web-pages.aspx).
-
 **CSS Building Blocks** is a set of css stylesheets whose primary purpose is to provide vertical and horizontal "spacing helpers". They have no dependencies on existing frameworks such as the 960 grid system or twitter bootstrap, but they can become especially helpful when used in conjunction with one of these frameworks.
 
 One simple scenario for using a "spacer" is to provide a specific and custom amount of height between two elements.
